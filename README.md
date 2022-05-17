@@ -28,4 +28,4 @@ Import sample files in `postman/`.
 [mmclsntr](https://github.com/mmclsntr)
 
 ## License
-[MIT](LICENCE.txt)
+[MIT](LICENSE.txt)

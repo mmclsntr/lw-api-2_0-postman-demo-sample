@@ -328,7 +328,7 @@
 			},
 			{
 				"key": "useBrowser",
-				"value": true,
+				"value": false,
 				"type": "boolean"
 			},
 			{
